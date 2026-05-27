@@ -1,401 +1,179 @@
 <div align="center">
 
-# 👋 Hey, I'm Aarya Bhutkar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aarya%20Bhutkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Software+Engineer+%7C+Full-Stack+Developer;MS+Computer+Science+%40+Arizona+State+University;Building+GenAI+Systems%2C+RAG+Pipelines+%26+Agentic+AI+Workflows;React+%2B+FastAPI+%2B+FAISS+%2B+LLMs+%2B+Cloud+Systems" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Production-Ready+AI+Systems;RAG+Pipelines+%7C+LLM+Evaluation+%7C+Agentic+AI;React+%2B+FastAPI+%2B+FAISS+%2B+PyTorch+%2B+AWS;MS+Computer+Science+%40+Arizona+State+University)](https://github.com/AaryaBhutkar)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aarya%20Bhutkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-bhutkar07/)
-[![GitHub](https://img.shields.io/badge/GitHub-AaryaBhutkar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AaryaBhutkar)
-[![Email](https://img.shields.io/badge/Email-aaryabhutkar3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaryabhutkar3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-bhutkar07/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AaryaBhutkar)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaryabhutkar3@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=AaryaBhutkar&style=for-the-badge&color=blueviolet)](https://github.com/AaryaBhutkar)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👩‍💻 About Me
 
-```yaml
-name: Aarya Bhutkar
-role: AI Software Engineer | Full-Stack Developer | GenAI Systems Builder
-location: Tempe, Arizona
-education:
-  - MS Computer Science, Arizona State University
-  - BE Information Technology with Honors in AI/ML
-current_focus:
-  - Generative AI Systems
-  - Retrieval-Augmented Generation
-  - Agentic AI Workflows
-  - LLM Evaluation
-  - Full-Stack AI Applications
-  - Cloud-Native Software Engineering
-```
+I'm a **Software Engineer and AI practitioner** pursuing my **M.S. in Computer Science at Arizona State University** (GPA 4.0), passionate about building intelligent, production-ready systems.
 
-I am a **Computer Science graduate student at Arizona State University** and an **AI Software Engineer** passionate about building intelligent, scalable, and production-ready software systems.
+Currently building an AI-enabled **Virtual Insomnia Patient Clinical Simulation Platform** — a Department of Defense–funded research project involving speech processing, vector search, NLP pipelines, and avatar playback for therapist training.
 
-My work sits at the intersection of:
-
-- 🤖 **Generative AI**
-- 🧠 **LLM Evaluation**
-- 🔎 **Vector Search & RAG**
-- 🎙️ **Speech-to-Text AI**
-- ⚙️ **Backend Systems**
-- 🌐 **Full-Stack Web Applications**
-- ☁️ **Cloud & DevOps**
-
-Currently, I am working on an AI-enabled **Virtual Insomnia Patient Clinical Simulation Platform**, where I build features involving **React, Vite, Node.js, FastAPI, MongoDB, FAISS, Whisper STT, NLP pipelines, and Pixel Streaming**.
+- 🔭 Working on: GenAI systems, RAG pipelines, and agentic AI workflows
+- 🎓 Studying: M.S. Computer Science @ ASU (`Aug 2025 – May 2027`)
+- 🌱 Exploring: LLM evaluation, retrieval optimization, scalable cloud systems
+- 💬 Ask me about: Full-stack AI apps, FastAPI, FAISS, LangChain, React
+- 📫 Reach me at: [aaryabhutkar3@gmail.com](mailto:aaryabhutkar3@gmail.com)
 
 ---
 
-## ⚡ Tech Arsenal
+## 🛠️ Tech Stack
 
-<div align="center">
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
 
-### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+</details>
 
-### AI / ML / GenAI
+<details open>
+<summary><b>AI / ML / GenAI</b></summary>
+<br/>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
-![Whisper](https://img.shields.io/badge/Whisper_STT-412991?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
-![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-8A2BE2?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-00C853?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![Whisper](https://img.shields.io/badge/Whisper_STT-412991?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
+![LLM Eval](https://img.shields.io/badge/LLM_Evaluation-8A2BE2?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-00C853?style=flat-square)
 
-### Full Stack
+</details>
 
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+<details open>
+<summary><b>Full Stack & Cloud</b></summary>
+<br/>
 
-### Databases, Cloud & DevOps
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=000)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=000)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## 🧬 System Design Mindset
-
-```txt
-User Input
-   ↓
-Speech / Text Processing
-   ↓
-Transcript Validation
-   ↓
-Embedding Generation
-   ↓
-Vector Retrieval with FAISS
-   ↓
-Confidence Scoring
-   ↓
-NLP Fallback Handling
-   ↓
-Backend API Routing
-   ↓
-Frontend Simulation Response
-   ↓
-User Feedback + Evaluation Loop
-```
-
-I like designing systems where **AI is not just a model call**, but part of a complete engineering pipeline involving:
-
-- clean APIs
-- measurable evaluation
-- fallback handling
-- metadata tracking
-- retrieval quality
-- user-facing reliability
-- scalable deployment patterns
+</details>
 
 ---
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td width="50%">
-
-### 🏥 AI Software Engineer  
-**Arizona State University**  
+### 🏥 AI Software Engineer · Arizona State University
 `Apr 2026 – Present`
 
-Built AI-enabled clinical training features for a **Virtual Insomnia Patient platform** supported by Department of Defense funding.
+> Building an AI-enabled **Virtual Insomnia Patient Clinical Simulation Platform** backed by **$5.2M in Department of Defense funding**.
 
-**Core Work:**
+- Integrated React, Vite, Node.js, FastAPI, MongoDB, FAISS, Whisper STT, and Pixel Streaming across 4+ microservices
+- Improved speech-to-response routing by **25%** using sentence-transformer embeddings and FAISS vector retrieval
+- Delivered simulation workflows across **12+ clinical modules** with scripted response selection and synchronized avatar playback
 
-- Integrated **React, Vite, Node.js, FastAPI, MongoDB, FAISS, Whisper STT, and Pixel Streaming**
-- Improved speech-to-response routing using embeddings and vector retrieval
-- Built confidence scoring, transcript validation, and NLP fallback systems
-- Developed clinical simulation workflows across 12+ modules
-- Supported synchronized avatar playback and diagnostic metadata tracking
+---
 
-</td>
-<td width="50%">
-
-### 🌐 Full Stack Software Development Intern  
-**BITROOT**  
+### 🌐 Full Stack Software Development Intern · BITROOT
 `Jun 2024 – Aug 2024`
 
-Designed scalable and responsive web applications using cloud and full-stack technologies.
+- Built scalable web applications using AWS, React.js, Node.js, and MySQL — improved load times by **25%**
+- Resolved **30+ bugs** through systematic reviews, reducing post-deployment issues by **20%**
+- Developed mobile-responsive interfaces that boosted client satisfaction ratings by **25%**
 
-**Core Work:**
+---
 
-- Built applications using **AWS, React.js, Node.js, and MySQL**
-- Improved load times through API tuning and query optimization
-- Developed mobile-responsive interfaces
-- Resolved 30+ bugs through debugging and reviews
-- Reduced post-deployment issues through systematic testing
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="100%">
-
-### 🤖 AI Trainer  
-**Outlier**  
+### 🤖 AI Trainer · Outlier
 `Jan 2024 – Mar 2024`
 
-Worked on improving LLM behavior through prompt creation, response evaluation, and annotation.
-
-**Core Work:**
-
-- Created and refined **500+ prompts**
-- Reviewed and annotated **1,000+ model outputs**
-- Improved training data coverage across healthcare, finance, education, and more
-- Applied human-centered prompting techniques to improve response relevance and fluency
-
-</td>
-</tr>
-</table>
+- Created and refined **500+ training prompts** across 10+ domains for Large Language Models
+- Reviewed and annotated **1,000+ model outputs**, improving benchmark scores by **15%**
+- Improved contextual accuracy by **20%** through human-centered prompting techniques
 
 ---
 
-## 🚀 Featured Technical Projects
+## 🚀 Featured Projects
 
----
+### 🧑‍⚕️ Virtual Insomnia Patient — Clinical Simulation Platform
 
-### 🧑‍⚕️ Virtual Insomnia Patient Clinical Simulation Platform
+> AI-powered therapy simulation used in DoD-funded clinical training research.
 
-> AI-powered browser-based therapy simulation system for clinical training workflows.
-
-```mermaid
-flowchart LR
-    A[User Speech Input] --> B[Whisper STT]
-    B --> C[Transcript Validation]
-    C --> D[Sentence Embeddings]
-    D --> E[FAISS Vector Search]
-    E --> F[Confidence Scoring]
-    F --> G[FastAPI Routing Layer]
-    G --> H[MongoDB Clinical Metadata]
-    G --> I[Node.js Service Layer]
-    I --> J[React + Vite UI]
-    J --> K[Pixel Streaming Avatar Playback]
+```
+User Speech → Whisper STT → Embeddings → FAISS Retrieval
+    → Confidence Scoring → FastAPI → MongoDB → React UI → Avatar Playback
 ```
 
-**Tech Stack**
+**Stack:** `React` `Vite` `Node.js` `FastAPI` `MongoDB` `FAISS` `Whisper STT` `Pixel Streaming`
 
-`React` `Vite` `Node.js` `FastAPI` `MongoDB` `FAISS` `Whisper STT` `NLP` `Pixel Streaming`
-
-**Technical Highlights**
-
-- Built browser-based therapy workflows with speech-to-response routing
-- Integrated Whisper STT for transcript generation
-- Used FAISS vector retrieval for response matching
-- Added confidence scoring and fallback handling
-- Improved dialogue relevance through GenAI reasoning and NLP pipelines
-- Built AI testing interfaces and response review screens
-- Supported routing logic across 12+ clinical modules
+- Built end-to-end speech-to-avatar pipeline with NLP fallback handling
+- Improved response relevance by **20%** via GenAI-integrated NLP pipelines
+- Optimized AI test interfaces and response review screens across **4+ services**
 
 ---
 
 ### 📊 Agentic AI Benchmarking & Evaluation Platform
 
-> Reproducible benchmarking system for evaluating AI agents across task-based environments.
+> Reproducible agent evaluation system for benchmarking LLMs at scale.
 
-```mermaid
-flowchart TD
-    A[Experiment Config] --> B[Slurm Job Scripts]
-    B --> C[vLLM Model Server]
-    C --> D[Qwen Model Variants]
-    D --> E[Tau-Bench Environments]
-    E --> F[Agent Strategy Execution]
-    F --> G[Log Collection]
-    G --> H[Failure Deduplication]
-    H --> I[Reward Trend Analysis]
-    I --> J[Evaluation Dashboard]
+```
+Config → Slurm Scripts → vLLM Server → Qwen Models (4B–32B)
+    → Tau-Bench Environments → Log Collection → Reward Analysis
 ```
 
-**Tech Stack**
+**Stack:** `Python` `vLLM` `Slurm` `Qwen` `Tau-Bench` `Pandas` `Matplotlib`
 
-`Python` `vLLM` `Slurm` `Tau-Bench` `Qwen Models` `Pandas` `Matplotlib`
-
-**Technical Highlights**
-
-- Architected a reproducible evaluation system for agentic AI experiments
-- Decoupled model servers, Slurm scripts, and experiment drivers
-- Automated sweeps across airline and retail benchmark environments
-- Evaluated multiple Qwen model sizes across agent strategies
-- Built Python utilities for log cleaning, failed-trial deduplication, and reward tracking
-- Reduced debugging and restart time through modular experiment design
+- Reduced experiment debugging time by **30%** via modular, decoupled architecture
+- Automated sweeps across airline and retail environments with checkpoint-based recovery
+- Cut manual failure-analysis time by **35%** with custom Python evaluation utilities
 
 ---
 
-## 🧪 Areas I Like Building In
-
-```python
-interests = {
-    "generative_ai": [
-        "RAG pipelines",
-        "LLM evaluation",
-        "agentic workflows",
-        "prompt engineering",
-        "retrieval optimization"
-    ],
-    "software_engineering": [
-        "backend APIs",
-        "distributed services",
-        "database optimization",
-        "cloud deployment",
-        "CI/CD automation"
-    ],
-    "full_stack": [
-        "React dashboards",
-        "AI testing interfaces",
-        "simulation controls",
-        "developer tools",
-        "responsive applications"
-    ]
-}
-```
-
----
-
-## 🎓 Education
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Arizona State University  
-**Master of Science in Computer Science**  
-`Aug 2025 – May 2027`
-
-**GPA:** `4.00 / 4.00`
-
-Focus Areas:
-
-- Artificial Intelligence
-- Software Engineering
-- Systems
-- Full-Stack Development
-- LLM Applications
-
-</td>
-<td width="50%">
-
-### 🎓 Vidyalankar Institute of Technology  
-**B.E. Information Technology**  
-**Honors in AI/ML**  
-`Aug 2021 – May 2025`
-
-**GPA:** `3.88 / 4.00`
-
-Focus Areas:
-
-- Machine Learning
-- Data Structures
-- Web Development
-- Database Systems
-- Cloud Computing
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Highlights
-
-```txt
-✔ AI Software Engineer working on clinical simulation technology
-✔ Experience with GenAI, RAG, FAISS, Whisper STT, and NLP pipelines
-✔ Full-stack development experience with React, Node.js, FastAPI, MongoDB, and MySQL
-✔ Built agentic AI benchmarking workflows using vLLM, Slurm, Tau-Bench, and Qwen models
-✔ Graduate GPA: 4.00 / 4.00 at Arizona State University
-✔ Undergraduate GPA: 3.88 / 4.00 with Honors in AI/ML
-```
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AaryaBhutkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryaBhutkar&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AaryaBhutkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryaBhutkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaryaBhutkar&theme=tokyonight&hide_border=true" />
 
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AaryaBhutkar&theme=tokyonight" />
-
 </div>
 
 ---
 
-## 🧩 Current Technical Focus
+## 🎓 Education
 
-<div align="center">
-
-| Area | What I'm Exploring |
-|---|---|
-| 🧠 Generative AI | RAG, LLM evaluation, agent workflows |
-| 🔎 Retrieval Systems | FAISS, embeddings, semantic search |
-| 🎙️ Speech AI | Whisper STT, transcript validation |
-| ⚙️ Backend Engineering | FastAPI, Node.js, scalable APIs |
-| 🌐 Frontend Engineering | React, Vite, AI testing interfaces |
-| ☁️ Cloud Systems | AWS, Azure, Docker, Kubernetes |
-| 📊 Evaluation | Benchmarks, logs, failure analysis, reward trends |
-
-</div>
+| Degree | Institution | GPA | Year |
+|---|---|---|---|
+| M.S. Computer Science | Arizona State University | 4.00 / 4.00 | 2025 – 2027 |
+| B.E. Information Technology · Honors in AI/ML | Vidyalankar Institute of Technology | 3.88 / 4.00 | 2021 – 2025 |
 
 ---
 
@@ -409,28 +187,13 @@ Focus Areas:
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
 
-I'm always open to discussing:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**AI Engineering · Full-Stack Development · LLM Systems · RAG · Agentic AI · Software Engineering Internships · Research Collaboration**
+**Let's connect — open to AI engineering roles, research collaborations, and internship opportunities.**
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-bhutkar07/)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AaryaBhutkar)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaryabhutkar3@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Building AI systems that move from prototypes to real-world impact.
-
-<img src="https://komarev.com/ghpvc/?username=AaryaBhutkar&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-bhutkar07/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaryabhutkar3@gmail.com)
 
 </div>
