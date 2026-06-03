@@ -48,7 +48,7 @@ Currently building an AI-enabled **Virtual Insomnia Patient Clinical Simulation 
 </details>
 
 <details open>
-<summary><b>AI / ML / GenAI</b></summary>
+<summary><b>AI / ML/ GenAI</b></summary>
 <br/>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
