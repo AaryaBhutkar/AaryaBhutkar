@@ -153,21 +153,6 @@ Config → Slurm Scripts → vLLM Server → Qwen Models (4B–32B)
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AaryaBhutkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryaBhutkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AaryaBhutkar&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🎓 Education
 
 | Degree | Institution | GPA | Year |
