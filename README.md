@@ -89,7 +89,7 @@ Currently building an AI-enabled **Virtual Insomnia Patient Clinical Simulation 
 ## 💼 Experience
 
 ### 🏥 AI Software Engineer · Arizona State University
-`Apr 2026 – Present`
+`Apr 2026 – Jun 2026`
 
 > Building an AI-enabled **Virtual Insomnia Patient Clinical Simulation Platform** backed by **$5.2M in Department of Defense funding**.
 
